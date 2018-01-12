@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Van den Vos Reynaerde</dc:title>
+      <dc:creator>Anoniem</dc:creator>
+      <dc:creator>Foeke Buitenrust Hettema (1862–1922)</dc:creator>
+      <dc:creator>Julius August Hermann Degering (1866–1942)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2013-03-10</dc:publisher>
+      <dc:date>2013-03-10</dc:date>
+      <dc:rights>Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de Project Gutenberg Licentie bij dit eBoek of on-line op www.gutenberg.org.
+Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op www.pgdp.net.
+Van dit bekende middeleeuwse epos zijn verschillende varianten op het internet te vinden. Deze uitgave uit 1921 bevat een weergave van twee vrijwel complete manuscripten, en gedeeltes van een derde manuscript.
+Meer achtergrondinformatie is te vinden op Wikipedia. In de DBNL zijn twee verschillende versies te vinden (editie J. Janssens, R. van Daele, V. Uyttersprot, editie W.L. van Helten).
+Op LibriVox is een voorgelezen versie van de berijmde vertaling uit 1885 van Julius de Geyter (1830-1905) te vinden.
+
+</dc:rights>
+      <dc:subject>Reynard the Fox (Legendary character) -- Poetry</dc:subject>
+      <dc:subject>Dutch literature</dc:subject>
+      <dc:description>Een kritische editie voor schoolgebruik van het bekende middeleeuwse epos.</dc:description>
+      <dc:identifier>pg:42293</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
